@@ -1,4 +1,4 @@
-# PalyaszerkesztosJatek
+# Pályaszerkesztős Játék
 Kamerán alapuló pályaszerkesztős játék
 
 Egy A4-es lapon filctollal szerkeszthetjük meg a saját pályánkat, amit a program beolvas, és ezután tudunk játszani rajta.
